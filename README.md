@@ -48,7 +48,7 @@ Client Team 5
 
 * PRG
 * NKG
-* NRNM
+* (Narsing Rao Nikitha Madhari)[https://github.com/NikithaMN-05]
 * AR
 
 Client Team 6
